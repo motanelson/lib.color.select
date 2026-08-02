@@ -1,0 +1,6 @@
+dir *.exe
+notepad.exe
+pbrush.exe
+echo hello
+exit
+exit
